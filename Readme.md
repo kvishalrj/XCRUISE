@@ -29,7 +29,7 @@ While building this Buildout, the developer:
 ### Skills used
 HTML5, Semantic HTML, CSS, CSS Positioning, Media Queries, CSS Flexbox, CSS Grids, Responsive Design
 
-## Screenshot of the Project 👇
+## Overview of the Project 👇
 ![](/Images/1.png)
 ![](/Images/2.png)
 ![](/Images/3.png)
